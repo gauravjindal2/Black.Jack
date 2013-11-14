@@ -1,0 +1,21 @@
+{ 
+ "name": "BlackJack", 
+ "description": "Play the real BlackJack, virtually!",
+ "version": "1.0",
+ "icons": {
+   "128": "128.png"
+    },
+ "app": {
+   "urls": [
+     "http://gauravjindal2.wix.com/gauravjindal"
+    ],
+  "launch": {
+   "web_url": "http://gauravjindal2.wix.com/gauravjindal"
+     }
+   }
+   "permissions": [
+      "unlimitedStorage",
+      "notifications"
+      ]
+}
+      
